@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="center">console.log("Hello, Im Ester Caturna!");</h1>
+<h3 align="center"><i>Fullstack Developer</i> </h3>
 
-<!--
-**estercaturna/estercaturna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=estercaturna&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyarm" /> </p>
 
-Here are some ideas to get you started:
+- 🎓 <Academia de Código/> </i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 I am from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Porto, Portugal</b>
+
+- 📚 I’m currently learning **Java**
+
+- ☕ In my free time I like: Running 🏃🏼‍♂️, Playing Games 🎮, Cook  and meet new people.
+
+
+<h3 align="left">How to reach me:</h3>
+
+<div> 
+  <a href="https://www.linkedin.com/in/estercaturna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="estercaturna" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="estercaturna" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="estercaturna" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="estercaturna" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="estercaturna" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="estercaturna" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="estercaturna" />
+</p>
+
+<div align="center">
+  <a href="https://github.com/Netsujr">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estercaturna&count_private=true&theme=dark&layout=compact" alt="Ester Language stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=estercaturna&theme=dark&show_icons=true&count_private=true" alt="Ester Language stats" />
+</div>
