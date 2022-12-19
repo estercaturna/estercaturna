@@ -31,7 +31,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Netsujr">
+  <a href="https://github.com/estercaturna">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estercaturna&count_private=true&theme=dark&layout=compact" alt="Ester Language stats" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=estercaturna&theme=dark&show_icons=true&count_private=true" alt="Ester Language stats" />
 </div>
